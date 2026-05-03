@@ -1,3 +1,2 @@
 url: https://api.trycloudflare.com/run
-endpoint: https://api.trycloudflare.com/run/run
-updated: 2026-05-01T16:24:44Z
+updated: 2026-05-03T09:26:34Z
